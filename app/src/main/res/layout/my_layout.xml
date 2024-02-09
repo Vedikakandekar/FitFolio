@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10sp">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="5dp"
+        android:layout_marginVertical="5dp"
+        android:elevation="40dp"
+        android:padding="40sp"
+        app:cardBackgroundColor="#B6AD90"
+        app:cardCornerRadius="25dp">
+
+        <TextView
+            android:id="@+id/TVtype"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:hint="Type"
+            android:padding="10dp"
+            android:paddingLeft="50dp"
+            android:textColor="@color/black"
+            android:textSize="25sp">
+
+        </TextView>
+
+
+        <TextView
+            android:id="@+id/TVrate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:hint="Rate"
+            android:padding="10dp"
+            android:paddingLeft="50dp"
+            android:textSize="20sp"></TextView>
+
+
+        <ImageButton
+            android:id="@+id/IMGedit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginVertical="30dp"
+            android:background="@color/prime2"
+            android:padding="10dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/del">
+
+        </ImageButton>
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

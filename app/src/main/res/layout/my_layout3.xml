@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5sp">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="40dp"
+        android:padding="10sp"
+        android:id="@+id/cardhistory"
+        app:cardBackgroundColor="#B6AD90"
+        app:cardCornerRadius="10dp"
+        tools:ignore="MissingClass">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="5dp"
+            >
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:orientation="horizontal"
+
+           >
+
+
+
+        <TextView
+            android:id="@+id/TVcustnm"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="Customer's name"
+            android:textColor="@color/black"
+            android:layout_weight="1"
+            android:textSize="20dp">
+
+        </TextView>
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:hint="Date"
+               android:layout_weight="2"
+               android:textColor="#3B0000"
+               android:id="@+id/date"
+               >
+
+           </TextView>
+
+       </LinearLayout>
+
+        <TextView
+            android:id="@+id/TVcustmob"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="Customer's Mob"
+            android:textColor="@color/black"
+            android:textSize="15sp">
+
+        </TextView>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    >
+
+
+
+        <TextView
+            android:id="@+id/TVtotal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:hint="Total Amount"
+            android:layout_weight="1"
+            android:textColor="#3B0000"
+            android:textSize="18sp">
+        </TextView>
+
+
+
+    <ImageButton
+        android:id="@+id/IMGdel"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="5"
+        android:background="@color/prime2"
+        android:scaleType="fitCenter"
+        android:src="@drawable/del">
+
+    </ImageButton>
+
+
+</LinearLayout>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

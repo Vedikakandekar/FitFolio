@@ -1,0 +1,46 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Tailering1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.18998978549540346" />
+        <entry key="..\:/Tailering1/app/src/main/res/drawable/add.xml" value="0.14145299145299145" />
+        <entry key="..\:/Tailering1/app/src/main/res/drawable/addcust.xml" value="0.17239583333333333" />
+        <entry key="..\:/Tailering1/app/src/main/res/drawable/arrow_back.xml" value="0.14145299145299145" />
+        <entry key="..\:/Tailering1/app/src/main/res/drawable/arrow_down.xml" value="0.17239583333333333" />
+        <entry key="..\:/Tailering1/app/src/main/res/drawable/custdown.xml" value="0.17239583333333333" />
+        <entry key="..\:/Tailering1/app/src/main/res/drawable/edit.xml" value="0.14145299145299145" />
+        <entry key="..\:/Tailering1/app/src/main/res/drawable/history.xml" value="0.14145299145299145" />
+        <entry key="..\:/Tailering1/app/src/main/res/drawable/home.xml" value="0.17239583333333333" />
+        <entry key="..\:/Tailering1/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.18998978549540346" />
+        <entry key="..\:/Tailering1/app/src/main/res/drawable/login.xml" value="0.18998978549540346" />
+        <entry key="..\:/Tailering1/app/src/main/res/drawable/my_layout1.xml" value="0.17239583333333333" />
+        <entry key="..\:/Tailering1/app/src/main/res/drawable/outline.xml" value="0.1" />
+        <entry key="..\:/Tailering1/app/src/main/res/drawable/person.xml" value="0.18998978549540346" />
+        <entry key="..\:/Tailering1/app/src/main/res/drawable/reg1.xml" value="0.14145299145299145" />
+        <entry key="..\:/Tailering1/app/src/main/res/drawable/reg2.xml" value="0.14145299145299145" />
+        <entry key="..\:/Tailering1/app/src/main/res/drawable/shape.xml" value="0.1" />
+        <entry key="..\:/Tailering1/app/src/main/res/drawable/shape2.xml" value="0.17239583333333333" />
+        <entry key="..\:/Tailering1/app/src/main/res/drawable/shape3.xml" value="0.14145299145299145" />
+        <entry key="..\:/Tailering1/app/src/main/res/layout/activity_cust_recycler.xml" value="0.25" />
+        <entry key="..\:/Tailering1/app/src/main/res/layout/activity_customer.xml" value="0.1" />
+        <entry key="..\:/Tailering1/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Tailering1/app/src/main/res/layout/activity_pagetype.xml" value="0.22" />
+        <entry key="..\:/Tailering1/app/src/main/res/layout/activity_registration.xml" value="0.17" />
+        <entry key="..\:/Tailering1/app/src/main/res/layout/activity_types_recycler.xml" value="0.15208333333333332" />
+        <entry key="..\:/Tailering1/app/src/main/res/layout/fragment_homefrag.xml" value="0.15208333333333332" />
+        <entry key="..\:/Tailering1/app/src/main/res/layout/fragment_registration.xml" value="0.22" />
+        <entry key="..\:/Tailering1/app/src/main/res/layout/layout_typedropdown.xml" value="0.15208333333333332" />
+        <entry key="..\:/Tailering1/app/src/main/res/layout/my_layout.xml" value="0.12478632478632479" />
+        <entry key="..\:/Tailering1/app/src/main/res/layout/my_layout1.xml" value="0.2" />
+        <entry key="..\:/Tailering1/app/src/main/res/layout/my_layout3.xml" value="0.25" />
+        <entry key="..\:/Tailering1/app/src/main/res/menu/btmnevig.xml" value="0.15208333333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
